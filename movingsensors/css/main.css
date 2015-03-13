@@ -271,7 +271,7 @@ a {
   -moz-transition: color 0.1s linear;
   transition: color 0.1s linear;
   color: #ced9e0;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 a:hover {
   color: #9fb5c2;
@@ -322,7 +322,8 @@ body {
 }
 
 a {
-  border-bottom: 1px solid #ced9e0;
+  //border-bottom: 1px solid #ced9e0;
+  text-decoration: none !important;
 }
 
 a:hover {
@@ -362,7 +363,7 @@ header #logo-container {
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 48.82117%;
+  width: 80.82117%;
 }
 header #logo-container:last-child {
   margin-right: 0;
