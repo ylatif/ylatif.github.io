@@ -340,8 +340,8 @@ header {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 4em;
-  border-top: 2px solid #B98907;
+  //margin-top: 4em;
+  //border-top: 2px solid #B98907;
   opacity: 0;
   -webkit-transform: translateY(50px);
   -moz-transform: translateY(50px);
@@ -385,6 +385,13 @@ header #logo-container:last-child {
     margin-right: 0;
   }
 }
+
+header #topImages{
+  display: block;
+  float: center;
+  margin: auto auto;
+  border-bottom: 2px solid #B98907
+}
 header #logo-container #logo {
   padding-top: 0.5em;
   font-weight: bold;
@@ -416,7 +423,7 @@ header nav {
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 74.41059%;
+  width: 84.41059%;
 }
 header nav:last-child {
   margin-right: 0;
