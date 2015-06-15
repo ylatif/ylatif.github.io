@@ -1,276 +1,304 @@
-<!doctype html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!doctype html>
+  <html>
+  <head>
+	  <meta charset="utf-8">
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<link rel="shortcut icon" href="img/favicon.ico"> 
-	<link rel="stylesheet" href="css/vendor/fluidbox.min.css">
-	<link rel="stylesheet" href="css/main.css">
+	  <link rel="shortcut icon" href="img/favicon.ico"> 
+	  <link rel="stylesheet" href="css/vendor/fluidbox.min.css">
+	  <link rel="stylesheet" href="css/main.css">
 
-	<title>The problem of moving sensors</title>
-<script src="https://apis.google.com/js/platform.js" async defer></script>
+	  <title>The problem of moving sensors</title>
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+				    
+  </head>
+  <body>
+
+
+	  <header>
+		  <div id="topImages">
+			  <img src="img/rss-logo.png" width=65% align="center"/> 
+			  <img src="img/ACRV-logo.jpg" width=34% align="center" />
+		  </div>
+		  <div id="logo-container">
+			  
+			  <div id="logo"><a>The Problem of Mobile Sensors:</a></div>
+			  <div id="subtitle">Setting future goals and indicators of progress for SLAM </div>
+			  <div id="subtitle">Workshop in conjunction with <a href="http://www.roboticsconference.org/">RSS 2015</a></div>
+			  <div id="subtitle">Sponsored by <a href="http://roboticvision.org">ACRV</a></div>
+			  
+		  </div>
+		  <nav>
+			  <ul>
+				  <li><a href="#organizers" class="bordered">Organizers</a></li>
+				  <li><a href="#organizers" class="bordered">Important Dates</a></li>
+				  <li><a href="#call" class="bordered">Call for submissions</a></li> 
+				  <li><a href="#program" class="bordered" >Program</a></li>
+				  <li><a href="#question" class="bordered">Ask a question</a></li>
+			  </ul>
+		  </nav> 
+	  </header>
+
+	  <div id="content">
+	  <!--
+		  <section class="intro">
+			  <h1>Hello, <span class="nl"></span>we are here to help you.</h1>
+			  <p>
+				  Gumba is a simple single-page website template. This is the place where you would normally introduce yourself. You can easily change the template to fit your needs by changing the text, photos and styles.
+			  </p>
+		  </section>
+
+		  <section class="row">
+			  <div class="col-full">
+				  <h2>Example title</h2>
+				  <p>
+					  Gumba is a fictional agency from Amsterdam, The Netherlands. This is the place where you would normally introduce yourself. You can easily change the template to fit your needs by adding text or changing the colors and styles.
+				  </p>
+			  </div>
+		  </section>
+		  -->
+	  
+		  <section class="row">
+			  <div class="col-full">
+				  <h1>News/Updates</h1>
+				  <p>
+					  <ul>
+					  <li>- New extended deadline for submission: <b> June 5th, 2015 </b></a></li>
+					  <li>- The workshop received a sponsorship from <a href="http://roboticvision.org">ACRV</a></li>
+					  <li>- An award of AUD 500 for the best poster has been approved </li>
+					  <li>- Updated list of confirmed Speakers</li>
+					  </ul>
+				  </p>
+			  </div>
+		  </section>
+
+					  <a name="program"></a>
+		  <section class="row">
+			  <div class="col-full">
+				  <h1>Program (Tentative)</h1>
+				  <p>
+					  <table width="100%" text-align="center">
+					  <tr><td>08:45-09:00</td><td align="center"><b>Welcome and introduction</b><td></tr>
+					  <tr><td>09:00-09:30</td><td><b>John Leonard</b><small> Massachusetts Institute of Technology</small></td><td>History / Goal Definition <td></tr>
+					  <tr><td>09:30-10:00</td><td><b>Mingo Tardos</b><small> University of Zaragoza</td><td> History / Goal Definition<td></tr>
+					  <tr><td>10:00-10:30</td><td><b>Shoudong Huang</b><small> University of Technology Sydney</td><td> Mathematical guarantees<td></tr>
+					  <tr><td>10:30-11:00</td><td align="center"><b>Coffee break<td></tr>
+					  <tr><td>11:00-11:30</td><td><b>Udo Frese</b><small> University of Bremen </td><td> Mathematical guarantees<td></tr>
+					  <tr><td>11:30-12:00</td><td><b>Davide Scaramuzza</b><small> University of Zurich</td><td> User Perspective<td></tr>
+					  <tr><td>12:00-12:30</td><td><b>Ryan Eustice</b><small> University of Michigan</td><td>  User Perspective <td></tr>
+					  <tr><td>12:30-14:00</td><td  align="center"><b>Lunch Break</b><td></tr>
+					  <tr><td>14:00-14:30</td><td><b>Patrick Pfaff</b><small> KUKA Robotics</td><td> Company Perspective<td></tr>
+					  <tr><td>14:30-15:00</td><td><b>Jason Meltzer</b><small> iRobot</td><td> Company Perspective <td></tr>
+					  <tr><td>15:00-15:30</td><td><b>Joel Hesh and Esha Nerurkar</b><small> Google Tango</td><td> Company Perspective<td></tr>
+					  <tr><td>15:30-16:00</td><td><b>Spotlight presentations</b><!--(5x6</td><td> 3x10)--><td></tr>
+					  <tr><td>16:00-16:30</td><td align="center"><b>Coffee break and poster session</b><td></tr>
+					  <tr><td>16:30-17:00</td><td><b>Bosch</b></td><td>Company Perspective(TBC)<td></tr>
+					  <tr><td>17:00-17:30</td><td><b>Zeeshan Zia</b><small> Imperial College London</td><td> SLAMBench<td></tr>
+					  <tr><td>17:30-18:00</td><td><b>Andreas Geiger</b><small> Max Planck Institute for Intelligent Systems</td><td> KITTI benchmark ​<td></tr>
+					  <tr><td>18:00-18:30</td><td align="center" ><b>Discussion Panel / Conclusions / Award</b><td></tr>
+					  </table>
+
+				  </p>
+			  </div>
+		  </section>
+			  
+
+		  
+		  <section class="row">
+			  <div class="col-full">
+				  <h1>Objective</h1>
+			      <p>
+				Simultaneous Localization and Mapping (SLAM) is an important problem in mobile robotics and its solution is fundamental in order to achieve true autonomy. As soon as sensors start moving in an environment, we have a SLAM problem. The goal of the workshop is to define an agenda for future research on SLAM and will mainly consist of two main themes: firstly, the workshop will provide an occasion to discuss what the community expects from a complete SLAM solution and secondly, top researchers in the field will provide an overview on where we stand today and what future directions need to be taken to achieve the perceived goal.
+			      </p>
+			      <h1>Confirmed Speakers</h1>
+				  <p>
+					  <ul>
+					  <li><b>John Leonard</b> Massachusetts Institute of Technology</li>
+					  <li><b>Davide Scaramuzza</b> University of Zurich</li>
+					  <li><b>Ryan Eustice</b> University of Michigan</li>
+					  <li><b>Andreas Geiger</b> Max Planck Institute for Intelligent Systems, Perceiving Systems</li>
+					  <li><b>Shoudong Huang</b> University of Technology, Sydney</li>
+					  <li><b>Juan Domingo Tardos</b> University of Zaragoza</li>
+					  <li><b>Zeeshan Zia</b> Imperial College London</li>
+					  <li><b>Udo Frese</b> University of Bremen</li>
+					  <li><b>Patrick Pfaff</b> KUKA Robotics</li>
+					  <li><b>Joel Hesch</b> Google Tango</li>
+					  <li><b>Esha Nerurkar</b> Google Tango</li>
+					  <li><b>Mario Munich</b> iRobot </li>
+					  <!--
+					  <li><b></li>
+					  <li><b></li>
+					  <li><b></li>
+					  -->
+
+					  </ul>
+				  </p>
+			  </div>
+		  </section>
+		  <a name="organizers"></a>
+		  <section class="row">
+			  <div class="col">
+				  <h1>Organizers</h1>
 				  
-</head>
-<body>
-
-
-	<header>
-		<div id="topImages">
-			<img src="img/rss-logo.png" width=65% align="center"/> 
-			<img src="img/ACRV-logo.jpg" width=34% align="center" />
-		</div>
-		<div id="logo-container">
-			
-			<div id="logo"><a>The Problem of Mobile Sensors:</a></div>
-			<div id="subtitle">Setting future goals and indicators of progress for SLAM </div>
-			<div id="subtitle">Workshop in conjunction with <a href="http://www.roboticsconference.org/">RSS 2015</a></div>
-			<div id="subtitle">Sponsored by <a href="http://roboticvision.org">ACRV</a></div>
-			
-		</div>
- 		<nav>
-			<ul>
-				<li><a href="#organizers" class="bordered">Organizers</a></li>
-				<li><a href="#organizers" class="bordered">Important Dates</a></li>
-				<li><a href="#call" class="bordered">Call for submissions</a></li> 
-				<li><a href="#program" class="bordered" >Program</a></li>
-				<li><a href="#program" class="bordered">Ask a question</a></li>
-			</ul>
-		</nav> 
-	</header>
-
-	<div id="content">
-	<!--
-		<section class="intro">
-			<h1>Hello, <span class="nl"></span>we are here to help you.</h1>
-			<p>
-				Gumba is a simple single-page website template. This is the place where you would normally introduce yourself. You can easily change the template to fit your needs by changing the text, photos and styles.
-			</p>
-		</section>
-
-		<section class="row">
-			<div class="col-full">
-				<h2>Example title</h2>
-				<p>
-					Gumba is a fictional agency from Amsterdam, The Netherlands. This is the place where you would normally introduce yourself. You can easily change the template to fit your needs by adding text or changing the colors and styles.
-				</p>
-			</div>
-		</section>
-		-->
-	
-		<section class="row">
-			<div class="col-full">
-				<h1>News/Updates</h1>
-				<p>
-					<ul>
-					<li>- New extended deadline for submission: <b> June 5th, 2015 </b></a></li>
-					<li>- The workshop received a sponsorship from <a href="http://roboticvision.org">ACRV</a></li>
-					<li>- An award of AUD 500 for the best poster has been approved </li>
-					<li>- Updated list of confirmed Speakers</li>
-					</ul>
-				</p>
-	
-		<section class="row">
-			<div class="col-full">
-				<h1>Objective</h1>
-			    <p>
-			      Simultaneous Localization and Mapping (SLAM) is an important problem in mobile robotics and its solution is fundamental in order to achieve true autonomy. As soon as sensors start moving in an environment, we have a SLAM problem. The goal of the workshop is to define an agenda for future research on SLAM and will mainly consist of two main themes: firstly, the workshop will provide an occasion to discuss what the community expects from a complete SLAM solution and secondly, top researchers in the field will provide an overview on where we stand today and what future directions need to be taken to achieve the perceived goal.
-			    </p>
-			    <h1>Confirmed Speakers</h1>
-				<p>
-					<ul>
-					<li><b>John Leonard</b> Massachusetts Institute of Technology</li>
-					<li><b>Davide Scaramuzza</b> University of Zurich</li>
-					<li><b>Ryan Eustice</b> University of Michigan</li>
-					<li><b>Andreas Geiger</b> Max Planck Institute for Intelligent Systems, Perceiving Systems</li>
-					<li><b>Shoudong Huang</b> University of Technology, Sydney</li>
-					<li><b>Juan Domingo Tardos</b> University of Zaragoza</li>
-					<li><b>Zeeshan Zia</b> Imperial College London</li>
-					<li><b>Udo Frese</b> University of Bremen</li>
-					<li><b>Patrick Pfaff</b> KUKA Robotics</li>
-					<li><b>Joel Hesch</b> Google Tango</li>
-					<li><b>Esha Nerurkar</b> Google Tango</li>
-					<li><b>Mario Munich</b> iRobot </li>
-					<!--
-					<li><b></li>
-					<li><b></li>
-					<li><b></li>
-					-->
-
-					</ul>
-				</p>
-			</div>
-		</section>
-		<a name="organizers"></a>
-		<section class="row">
-			<div class="col">
-				<h1>Organizers</h1>
-				
+				      <p>
+				      
+				      <h2>Cesar Cadena</h2>
+				      <i>University of Adelaide, Australia.(<a href="http://cs.adelaide.edu.au/~cesar/">webpage</a>)</i>
+				      <h2>
+					    Luca Carlone
+				      </h2>  
+				      <i>Georgia Institute of Technology, USA.(<a href="http://www.lucacarlone.com">webpage</a>)
+				      </i>
+				      
+				      <h2>Henry Carrillo</a> </h2> 
+				      <i>Pontificia Universidad Javeriana, Colombia. (<a href="http://www.hcarrillo.com">webpage</a>)
+				      </i>
+				      
+				      <h2>Yasir Latif</h2>
+				      <i>University of Adelaide, Australia. (<a href="http://webdiis.unizar.es/~ylatif">webpage</a>)</i>
+				      
+				      <h2>John Leonard</h2>
+				      <i>MIT, USA. (<a href="http://groups.csail.mit.edu/marine/wiki/index.php?title=John_Leonard">webpage</a>)</i>
+				    
+				      <h2>Jose Neira</h2>
+				      <i>University of Zaragoza, Spain. (<a href="http://webdiis.unizar.es/~neira">webpage</a>)</i>
+				    
+				      <h2>Ian Reid</h2> 
+				      <i>University of Adelaide, Australia. (<a href="http://cs.adelaide.edu.au/~ianr/">webpage</a>)</i>
+				      
+				      </p>
+				  
+			  </div>
+			  <div class="col">
+				  <h1>Important Dates </h1>
+				  
 				    <p>
-				    
-				    <h2>Cesar Cadena</h2>
-				    <i>University of Adelaide, Australia.(<a href="http://cs.adelaide.edu.au/~cesar/">webpage</a>)</i>
-				    <h2>
-					  Luca Carlone
-				    </h2>  
-				    <i>Georgia Institute of Technology, USA.(<a href="http://www.lucacarlone.com">webpage</a>)
-				    </i>
-				    
-				    <h2>Henry Carrillo</a> </h2> 
-				    <i>Pontificia Universidad Javeriana, Colombia. (<a href="http://www.hcarrillo.com">webpage</a>)
-				    </i>
-				    
-				    <h2>Yasir Latif</h2>
-				    <i>University of Adelaide, Australia. (<a href="http://webdiis.unizar.es/~ylatif">webpage</a>)</i>
-				    
-				    <h2>John Leonard</h2>
-				    <i>MIT, USA. (<a href="http://groups.csail.mit.edu/marine/wiki/index.php?title=John_Leonard">webpage</a>)</i>
-				   
-				    <h2>Jose Neira</h2>
-				    <i>University of Zaragoza, Spain. (<a href="http://webdiis.unizar.es/~neira">webpage</a>)</i>
-				   
-				    <h2>Ian Reid</h2> 
-				    <i>University of Adelaide, Australia. (<a href="http://cs.adelaide.edu.au/~ianr/">webpage</a>)</i>
-				    
+				    <i>Submission Due:</i> <s> May 18, 2015 </s><br/>
+				    <i>Submission Due (extended):</i> June 5, 2015<br/>
+				    <i>Acceptance Notification:</i> July 1, 2015<br/>
+				    <i>Camera Ready Papers Due:</i> July 7, 2015<br/>
+				    <i>Workshop: July 17, 2015</i><br/>
 				    </p>
-				
-			</div>
-			<div class="col">
-				<h1>Important Dates </h1>
-				
-				   <p>
-				   <i>Submission Due:</i> <s> May 18, 2015 </s><br/>
-				   <i>Submission Due (extended):</i> June 5, 2015<br/>
-				   <i>Acceptance Notification:</i> July 1, 2015<br/>
-				   <i>Camera Ready Papers Due:</i> July 7, 2015<br/>
-				   <i>Workshop: July 17, 2015</i><br/>
-				   </p>
-				
-			</div>
-		</section>
-		
-		<a name="call"></a>
-		</section>
-		<section class="row">
-			<div class="col-full">
-				<h1>Call for Paper</h1>
-		<p>
-		
-		Participants are invited to submit extended abstracts (max 2 pages) or full papers (max 8 pages) presenting new or ongoing research.
-We solicit contributions regarding the following topics:
-
-<ul>
-<li>Challenges and solutions for SLAM</li>
-<li>New theoretical tools for SLAM</li>
-<li>New benchmarks for SLAM</li>
-<li>Real-world applications for SLAM</li>
-<li>Active SLAM</li>
-<li>Long-term autonomy and experiments</li>
-<li>Robustness in localization and map building</li>
-<li>Mapping and localization in dynamic environments</li>
-<li>Semantic SLAM</li>
-<li>New sensors and sensor fusion strategies</li>
-</ul>
-</p>
-<p>
-Papers have to be submitted as a single PDF file and will be reviewed by the program committee. 
-Multimedia demonstrations are also encouraged. <b> A cash prize of AUD 500 has been sponsored by ACRV for the best poster award. </b>
-</p><p>
-Please submit your manuscript at:<br/>
-<a href="https://cmt.research.microsoft.com/MS2015/">https://cmt.research.microsoft.com/MS2015/</a>
-
-</p><p>		
-		The call for papers and submission details can also be found <a href="./CfP.pdf">here</a>.
-		</p>
- 
-<h2>
-Program Committee
-</h2>
-<p>
-<ul>
-<li><b>José Angel Castellanos</b>       University of Zaragoza,Spain</li>
-<li><b>Liam Paull</b>                                MIT, USA            </li>            
-<li><b>Niko Sünderhauf</b>                   Queensland University of Technology, Australia</li>   
-<li><b>Gian Diego Tipaldi</b>                 Albert-Ludwigs-Universität Freiburg, Germany      </li>
-<li><b>Brian Williams</b>                       Google, USA                        </li>
-<li><b>Davide Scaramuzza</b>              University of Zurich, Switzerland         </li>   
-<li><b>Margarita Chli</b>                         University of Edinburgh, UK           </li>     
-<li><b>Paul Huang</b>                              University of Delaware, USA           </li> 
-<li><b>Dorian Galvez-Lopez</b>            University of Colorado, USA           </li> 
-<li><b>Luis Puig</b>                                 University of Washington, USA     </li>       
-</ul>
-</p>
-			</div>
-		</section>
-		
-		<!--
-		<section class="row">
-			<div class="photo-grid">
-				<a href="img/example-photo-b.jpg" rel="lightbox" class="col-2"><img src="img/example-photo-b.jpg" alt="Example photo"></a>
-				<a href="img/example-photo-c.jpg" rel="lightbox" class="col-2"><img src="img/example-photo-c.jpg" alt="Example photo"></a>
-				<a href="img/example-photo-a.jpg" rel="lightbox" class="col-1"><img src="img/example-photo-a.jpg" alt="Example photo"></a>
-			</div>
-		</section>
-		-->
-
-		<a name="program"></a>
-		<section class="row">
-			<div class="col">
-				<h1>Program</h1>
-				<p>
-					To be announced.
-				</p>
-			</div>
-			<div class="col">
-				<h1>Your Questions</h1>
-				<p>
-				  We are hoping to collect questions and comments from the community on the current status and future goals of SLAM.
-The questions will be addressed during the workshop. We invite to post questions and comments
-by joining the community below or clicking <a href="https://plus.google.com/communities/102832228492942322585">here</a>. 
 				  
-				</p>  
-				  <div class="g-community" data-href="https://plus.google.com/communities/102832228492942322585" data-layout="landscape" data-width="450"></div>
-				  <!-- Further details will be made available here as the time for the workshop nears. -->
-				
-			</div>
-		</section>
+			  </div>
+		  </section>
+		  
+		  <a name="call"></a>
+		  </section>
+		  <section class="row">
+			  <div class="col-full">
+				  <h1>Call for Paper</h1>
+		  <p>
+		  
+		  Participants are invited to submit extended abstracts (max 2 pages) or full papers (max 8 pages) presenting new or ongoing research.
+  We solicit contributions regarding the following topics:
 
-		<!--
+  <ul>
+  <li>Challenges and solutions for SLAM</li>
+  <li>New theoretical tools for SLAM</li>
+  <li>New benchmarks for SLAM</li>
+  <li>Real-world applications for SLAM</li>
+  <li>Active SLAM</li>
+  <li>Long-term autonomy and experiments</li>
+  <li>Robustness in localization and map building</li>
+  <li>Mapping and localization in dynamic environments</li>
+  <li>Semantic SLAM</li>
+  <li>New sensors and sensor fusion strategies</li>
+  </ul>
+  </p>
+  <p>
+  Papers have to be submitted as a single PDF file and will be reviewed by the program committee. 
+  Multimedia demonstrations are also encouraged. <b> A cash prize of AUD 500 has been sponsored by ACRV for the best poster award. </b>
+  </p><p>
+  Please submit your manuscript at:<br/>
+  <a href="https://cmt.research.microsoft.com/MS2015/">https://cmt.research.microsoft.com/MS2015/</a>
 
-		<section class="row">
-			<div class="col-full">
-				<p>
-					© 2014 - This is a free website template by <a href="http://www.pixelsbyrick.com">Rick Waalders</a>
-				</p>
-			</div>
-		</section>
-		-->
- 
-	</div>
+  </p><p>		
+		  The call for papers and submission details can also be found <a href="./CfP.pdf">here</a>.
+		  </p>
+  
+  <h2>
+  Program Committee
+  </h2>
+  <p>
+  <ul>
+  <li><b>José Angel Castellanos</b>       University of Zaragoza,Spain</li>
+  <li><b>Liam Paull</b>                                MIT, USA            </li>            
+  <li><b>Niko Sünderhauf</b>                   Queensland University of Technology, Australia</li>   
+  <li><b>Gian Diego Tipaldi</b>                 Albert-Ludwigs-Universität Freiburg, Germany      </li>
+  <li><b>Brian Williams</b>                       Google, USA                        </li>
+  <li><b>Davide Scaramuzza</b>              University of Zurich, Switzerland         </li>   
+  <li><b>Margarita Chli</b>                         University of Edinburgh, UK           </li>     
+  <li><b>Paul Huang</b>                              University of Delaware, USA           </li> 
+  <li><b>Dorian Galvez-Lopez</b>            University of Colorado, USA           </li> 
+  <li><b>Luis Puig</b>                                 University of Washington, USA     </li>       
+  </ul>
+  </p>
+			  </div>
+		  </section>
+		  
+		  <!--
+		  <section class="row">
+			  <div class="photo-grid">
+				  <a href="img/example-photo-b.jpg" rel="lightbox" class="col-2"><img src="img/example-photo-b.jpg" alt="Example photo"></a>
+				  <a href="img/example-photo-c.jpg" rel="lightbox" class="col-2"><img src="img/example-photo-c.jpg" alt="Example photo"></a>
+				  <a href="img/example-photo-a.jpg" rel="lightbox" class="col-1"><img src="img/example-photo-a.jpg" alt="Example photo"></a>
+			  </div>
+		  </section>
+		  -->
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script>
-	if (!window.jQuery) 
-	{
-	    document.write('<script src="js/vendor/jquery.1.11.min.js"><\/script>');
-	}
-	</script>
+		  <a name="question"></a>
+		  <section class="row">
+			  <div class="col-full">
+				  <h1>Your Questions</h1>
+				  <p>
+				    We are hoping to collect questions and comments from the community on the current status and future goals of SLAM.
+  The questions will be addressed during the workshop. We invite to post questions and comments
+  by joining the community below or clicking <a href="https://plus.google.com/communities/102832228492942322585">here</a>. 
+				    
+				  </p>  
+				    <div class="g-community" data-href="https://plus.google.com/communities/102832228492942322585" data-layout="landscape" data-width="450"></div>
+				    <!-- Further details will be made available here as the time for the workshop nears. -->
+				  
+			  </div>
+		  </section>
 
-	<script src="js/vendor/jquery.fluidbox.min.js"></script>
-	<script src="js/main.js"></script>
-<!--
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		  <!--
 
-	  ga('create', 'YOUR_GOOGLE_ANALYTICS_ID', 'auto');
-	  ga('send', 'pageview');
+		  <section class="row">
+			  <div class="col-full">
+				  <p>
+					  © 2014 - This is a free website template by <a href="http://www.pixelsbyrick.com">Rick Waalders</a>
+				  </p>
+			  </div>
+		  </section>
+		  -->
+  
+	  </div>
 
-	</script>
--->
-</body>
-</html>
+	  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	  <script>
+	  if (!window.jQuery) 
+	  {
+	      document.write('<script src="js/vendor/jquery.1.11.min.js"><\/script>');
+	  }
+	  </script>
+
+	  <script src="js/vendor/jquery.fluidbox.min.js"></script>
+	  <script src="js/main.js"></script>
+  <!--
+	  <script>
+	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	    ga('create', 'YOUR_GOOGLE_ANALYTICS_ID', 'auto');
+	    ga('send', 'pageview');
+
+	  </script>
+  -->
+  </body>
+  </html>
 
