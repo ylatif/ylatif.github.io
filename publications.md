@@ -5,14 +5,7 @@ subtitle:
 ---
 
 
-
-
-
-
-
-
-
- 
+[<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en) 
 
 ## 2017
 
