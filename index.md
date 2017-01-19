@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Yasir Latif
-#subtitle: Post doctoral resesearcher in Robotics
+#subtitle: Post doctoral researcher in Robotics
 ---
 
-I am a post-doctoral resesearcher at the Australian Center for Robotic Vision at the University of Adelaide node.
+I am a post-doctoral researcher at the Australian Center for Robotic Vision at the University of Adelaide node.
 
 ## News
 
  - [*Jan 2017*] Two papers accepted for ICRA 2017. 
- - [*Dec 2016*] Our [paper](http://ieeexplore.ieee.org/abstract/document/7747236/) regarding the future of SLAM has been accepted for publication in Transcatios on Robotics. 
+ - [*Dec 2016*] Our [paper](http://ieeexplore.ieee.org/abstract/document/7747236/) regarding the future of SLAM has been accepted for publication in Transcations on Robotics. 
 
 ## Datasets and software
 
