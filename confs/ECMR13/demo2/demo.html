@@ -1,0 +1,52 @@
+<html>
+<head>
+<script type="text/javascript" src="vertices.js"> </script>
+<script type="text/javascript" src="edges.js"> </script>
+<script type="text/javascript" src="mouseHandler.js"> </script>
+<script type="text/javascript" src="js/Chart.js"></script>
+
+<style>
+			canvas{
+			}
+		</style>
+
+<title> Hello World.
+</title>
+
+</head>
+<body>
+ 
+ <script type="text/javascript" src="incrMergeSplit.js"> </script>
+ 
+<table border=0>
+<tr>
+<td colspan=3>
+ <canvas id="myCanvas" width="800" height="600"> </canvas>
+</td>
+<td colspan=3>
+ <canvas id="myCanvasDraw" width="800" height="600"> </canvas>
+</td>
+<tr>
+<td>
+<input width="50%" type="range" name="rangeInput" min="0" max="100" value="5" onchange="updateTextInput(this.value);">                                                       
+</td>
+<td>
+Threshold : <span id="textInput" > 0.05 </span>
+</td>
+<td>
+Vertex Count: <span id="textInput2"> </span>
+</td>
+</tr>
+</table>
+
+<script> 
+	vc = init(); 
+	document.getElementById('textInput2').innerHTML=vc; 
+</script>
+
+<span id="instructions">
+To zoom-in/out use the mouse wheel. The slider controls the threshold and the percentage represents the number of remaning vertices at the given value of the threshold
+</span>
+
+</body>
+</html>
