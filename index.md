@@ -7,7 +7,7 @@ title: Yasir Latif
 I am a post-doctoral researcher at the Australian Center for Robotic Vision at the University of Adelaide node.
 
 ## News
-
+ - [*Mar 2017*] Journal paper regarding sparsity for loop closure detection accepted for publication in [Robotics and Autonomous System](https://www.journals.elsevier.com/robotics-and-autonomous-systems/) (RAS). 
  - [*Jan 2017*] Two papers accepted for ICRA 2017. 
  - [*Dec 2016*] Our [paper](http://ieeexplore.ieee.org/abstract/document/7747236/) regarding the future of SLAM has been accepted for publication in Transcations on Robotics. 
 
