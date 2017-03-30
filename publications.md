@@ -8,6 +8,10 @@ subtitle:
 [<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en) 
 
 ## 2017
+ - **[RAS] Sparse Optimization for Robust and Efficient Loop Closing**,  
+   ***Y Latif**, G Huang, JJ Leonard, J Neira*,  
+   Robotics and Autonomous Systems (Accepted for publication).  
+   [[Preprint]](https://arxiv.org/abs/1701.08921)
 
  - **[ICRA] Dense Monocular Reconstruction using Surface Normals**,  
    *CS Weerasekera, **Y Latif**, R Garg, I Reid*,  
