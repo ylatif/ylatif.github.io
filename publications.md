@@ -8,6 +8,11 @@ subtitle:
 [<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en) 
 
 ## 2017
+ - **[IROS] Meaningful Maps With Object-Oriented Semantic Mapping**,  
+   *N Sünderhauf, TT. Pham, **Y Latif**, M Milford, I Reid*,  
+   IEEE / RSJ International Conference on Intelligent Robots and Systems, 2017.
+   [[Preprint]](https://arxiv.org/abs/1609.07849)
+
  - **[RAS] Sparse Optimization for Robust and Efficient Loop Closing**,  
    ***Y Latif**, G Huang, JJ Leonard, J Neira*,  
    Robotics and Autonomous Systems (Accepted for publication).  
