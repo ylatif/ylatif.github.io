@@ -26,6 +26,8 @@ navbar-links:
 #  About Me: "aboutme"
   Publications: "publications"
   RSS Workshop: "http://ylatif.github.io/movingsensors/"
+  Projects:
+     - Place Recognition : "placeRecognition"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
