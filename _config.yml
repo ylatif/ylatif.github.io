@@ -25,7 +25,7 @@ description: SLAM and stuff
 navbar-links:
 #  About Me: "aboutme"
   Projects:
-     - Place Recognition : "PlaceRecognition"
+     - GANs for Place Recognition : "projects/PRwithGANS/"
   Publications: "publications"
   RSS Workshop: "http://ylatif.github.io/movingsensors/"
   
