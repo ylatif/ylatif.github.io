@@ -7,6 +7,7 @@ title: Yasir Latif
 I am a post-doctoral researcher at the Australian Center for Robotic Vision at the University of Adelaide node.
 
 ## News
+ - [*Jan 2018*] Our work on using [Generative Adversarial Networks for place recognition](https://arxiv.org/abs/1709.08810) has been accepted for publication in ICRA '18.
  - [*Sept 2017*] Our on [meaningful maps](https://arxiv.org/abs/1609.07849) was presented at IROS '17 in Vancouver, Canada.
  - [*Mar 2017*] Journal paper regarding sparsity for loop closure detection accepted for publication in [Robotics and Autonomous System](https://www.journals.elsevier.com/robotics-and-autonomous-systems/) (RAS). 
  - [*Jan 2017*] Two papers accepted for ICRA 2017. 
