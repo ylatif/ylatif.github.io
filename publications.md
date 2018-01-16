@@ -8,13 +8,13 @@ subtitle:
 [<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en) 
 
 ## 2018
-- ** [ICRA] Latif, Yasir, et al. "Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks,  
-* **Y Latif**, R Garg, M Milford, I Reid*,  
+- **[ICRA] Latif, Yasir, et al. "Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks**,  
+***Y Latif**, R Garg, M Milford, I Reid*,  
 IEEE International Conference on Robotics and Automation, 2018. [preprint](https://arxiv.org/abs/1709.08810)
 
 
 ## 2017
- - **[ACRA] Sparse Point-Plane SLAM **,  
+ - **[ACRA] Sparse Point-Plane SLAM**,  
    *M Hosseinzadeh,  **Y Latif**, I Reid *,  
    Australasian Conference on Robotics and Automation, 2017. [pdf](http://cattle3d.com/pap170s1-file1.pdf)
 
