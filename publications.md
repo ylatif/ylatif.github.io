@@ -10,13 +10,15 @@ subtitle:
 ## 2018
 - **[ICRA] Latif, Yasir, et al. "Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks**,  
 ***Y Latif**, R Garg, M Milford, I Reid*,  
-IEEE International Conference on Robotics and Automation, 2018. [preprint](https://arxiv.org/abs/1709.08810)
+IEEE International Conference on Robotics and Automation, 2018.  
+[[preprint]](https://arxiv.org/abs/1709.08810)
 
 
 ## 2017
  - **[ACRA] Sparse Point-Plane SLAM**,  
-   *M Hosseinzadeh,  **Y Latif**, I Reid *,  
-   Australasian Conference on Robotics and Automation, 2017. [pdf](http://cattle3d.com/pap170s1-file1.pdf)
+   *M Hosseinzadeh,  **Y Latif**, I Reid*,  
+   Australasian Conference on Robotics and Automation, 2017.  
+   [[pdf]](http://cattle3d.com/pap170s1-file1.pdf)
 
  - **[IROS] Meaningful Maps With Object-Oriented Semantic Mapping**,  
    *N Sünderhauf, TT. Pham, **Y Latif**, M Milford, I Reid*,  
