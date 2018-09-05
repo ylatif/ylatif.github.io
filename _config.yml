@@ -27,7 +27,9 @@ navbar-links:
   Projects:
      - GANs for Place Recognition : "projects/PRwithGANS/"
   Publications: "publications"
-  RSS Workshop: "http://ylatif.github.io/movingsensors/"
+  Workshops: 
+    - RSS 2015: "http://ylatif.github.io/movingsensors/"
+    - ICRA 2019 : "workshops/learningslam/"
   
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
