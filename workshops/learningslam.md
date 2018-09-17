@@ -20,3 +20,12 @@ The topics of interest includes but are not limited to:
 - Learning-based methods for place recognition under challenging conditions
 - Utilizing deep learning methods to adapt current SLAM methods for lifelong operation
 
+## Organizers
+
+- [Ravi Garg](https://scholar.google.com.au/citations?user=2dvDXjkAAAAJ&hl=en)<br>*University of Adelaide*
+- [Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en)<br>*University of Adelaide*
+- [Viorela Ila](https://scholar.google.com.au/citations?user=HeaQbWsAAAAJ&hl=en)<br>*Australian National University*
+- [Micheal Milford](https://scholar.google.com.au/citations?user=TDSmCKgAAAAJ&hl=en)<br>*Queensland University of Technology*
+- [Tom Drummond](https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en)<br>*Monash University*
+- [Ian Reid](https://scholar.google.com.au/citations?user=ATkNLcQAAAAJ&hl=en)<br>*University of Adelaide*
+
