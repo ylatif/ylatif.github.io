@@ -20,12 +20,23 @@ The topics of interest includes but are not limited to:
 - Learning-based methods for place recognition under challenging conditions
 - Utilizing deep learning methods to adapt current SLAM methods for lifelong operation
 
-## Organizers
 
-- [Ravi Garg](https://scholar.google.com.au/citations?user=2dvDXjkAAAAJ&hl=en)<br>*University of Adelaide*
-- [Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en)<br>*University of Adelaide*
-- [Viorela Ila](https://scholar.google.com.au/citations?user=HeaQbWsAAAAJ&hl=en)<br>*Australian National University*
-- [Micheal Milford](https://scholar.google.com.au/citations?user=TDSmCKgAAAAJ&hl=en)<br>*Queensland University of Technology*
-- [Tom Drummond](https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en)<br>*Monash University*
-- [Ian Reid](https://scholar.google.com.au/citations?user=ATkNLcQAAAAJ&hl=en)<br>*University of Adelaide*
+### Organizers
 
+* [Ravi Garg](https://scholar.google.com.au/citations?user=2dvDXjkAAAAJ&hl=en)  *University of Adelaide* 
+* [Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en)  *University of Adelaide* 
+* [Viorela Ila](https://scholar.google.com.au/citations?user=HeaQbWsAAAAJ&hl=en)  *Australian National University* 
+* [Michael Milford](https://scholar.google.com.au/citations?user=TDSmCKgAAAAJ&hl=en)  *Queensland University of Technology* 
+* [Tom Drummond](https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en)  *Monash University* 
+* [Ian Reid](https://scholar.google.com.au/citations?user=ATkNLcQAAAAJ&hl=en)  *University of Adelaide* 
+
+### Supported by
+
+* [Cesar Cadena](https://n.ethz.ch/~cesarc/) *ETH Zurich* 
+* [Trung Pham](https://trungtpham.github.io/) *Nvidia* 
+* [Vijay Kumar](https://scholar.google.co.uk/citations?user=sKd9ylYAAAAJ&hl=en) *Xerox PARC* 
+* [Pan Ji](http://www.nec-labs.com/pan-ji) *NEC Labs* 
+* [Guoquan (Paul) Huang](https://udel.edu/~ghuang/) *University of Delaware* 
+* [Saroj Weerasekara](https://www.roboticvision.org/rv_person/saroj-weerasekera/) *University of Adelaide* 
+* [Thanh-Toan Do](https://sites.google.com/site/thanhtoando2212/) *University of Liverpool* 
+* [Teresa Vidal Calleja](https://www.uts.edu.au/staff/teresa.vidalcalleja) * University of  Technology Sydney *
