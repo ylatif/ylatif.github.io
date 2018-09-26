@@ -30,7 +30,7 @@ The topics of interest includes but are not limited to:
 * [Tom Drummond](https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en)  *Monash University* 
 * [Ian Reid](https://scholar.google.com.au/citations?user=ATkNLcQAAAAJ&hl=en)  *University of Adelaide* 
 
-### Supported by
+### Porgram Committee
 
 * [Cesar Cadena](https://n.ethz.ch/~cesarc/) *ETH Zurich* 
 * [Trung Pham](https://trungtpham.github.io/) *Nvidia* 
@@ -38,5 +38,6 @@ The topics of interest includes but are not limited to:
 * [Pan Ji](http://www.nec-labs.com/pan-ji) *NEC Labs* 
 * [Guoquan (Paul) Huang](https://udel.edu/~ghuang/) *University of Delaware* 
 * [Saroj Weerasekara](https://www.roboticvision.org/rv_person/saroj-weerasekera/) *University of Adelaide* 
-* [Thanh-Toan Do](https://sites.google.com/site/thanhtoando2212/) *University of Liverpool* 
-* [Teresa Vidal Calleja](https://www.uts.edu.au/staff/teresa.vidalcalleja) * University of  Technology Sydney *
+* [Teresa Vidal Calleja](https://www.uts.edu.au/staff/teresa.vidalcalleja) *University of Technology Sydney*
+* [Pulak Purkait](http://www.pulakpurkait.com/) *University of Adelaide*
+* [TJ Chin](https://cs.adelaide.edu.au/~tjchin/doku.php) *University of Adelaide*
