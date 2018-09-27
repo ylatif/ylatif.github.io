@@ -8,7 +8,15 @@ subtitle:
 [<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en) 
 
 ## 2018
-- **[ICRA] Latif, Yasir, et al. "Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks**,  
+- **[ACCV] Learning Deeply Supervised Good Features to Match for Dense Monocular Reconstruction**  
+*S Weerasekera, R Garg, **Y Latif**, I Reid*  
+Asian Conference on Computer Vision 2018
+
+- **[ACCV] Structure Aware SLAM using Quadrics and Planes**  
+*M Hosseinzadeh, **Y Latif**, T Pham, N Sünderhauf, I Reid*  
+Asian Conference on Computer Vision 2018
+
+- **[ICRA] Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks**,  
 ***Y Latif**, R Garg, M Milford, I Reid*,  
 IEEE International Conference on Robotics and Automation, 2018.  
 [[preprint]](https://arxiv.org/abs/1709.08810)
