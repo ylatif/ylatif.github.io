@@ -10,7 +10,7 @@ subtitle:
 ## 2018
 - **[ACCV] Learning Deeply Supervised Good Features to Match for Dense Monocular Reconstruction**  
 *S Weerasekera, R Garg, **Y Latif**, I Reid*  
-Asian Conference on Computer Vision 2018
+Asian Conference on Computer Vision 2018 
 
 - **[ACCV] Structure Aware SLAM using Quadrics and Planes**  
 *M Hosseinzadeh, **Y Latif**, T Pham, N Sünderhauf, I Reid*  
