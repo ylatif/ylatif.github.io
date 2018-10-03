@@ -9,8 +9,9 @@ subtitle: Whats everyone reading?
 
  | When | Where | What | Who|
  | :--- | :--: |:---: | :--- |
- |Thursday 27/09/2018 | 2-3pm 5.58 |"CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM", [[pdf]](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/mbloesch_etal_cvpr2018.pdf)|  *Saroj Weerasekara*|
-  
+ |Thursday 04/10/2018 | 2-3pm 5.57 |"DeepTAM: deep tracking and mapping", [[pdf]](https://arxiv.org/pdf/1808.01900.pdf)|  *Ravi Garg*|
+ 
+   
 
 
  The idea is to meet every week / fortnight and discuss the papers which are relevant to most of us working on Semantic SLAM. 
@@ -47,3 +48,5 @@ If you want to discuss a particular paper and lead the reading group please feel
 
 
 ### Past Reading Groups
+
+|Thursday 27/09/2018 |"CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM", [[pdf]](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/mbloesch_etal_cvpr2018.pdf)|  *Saroj Weerasekara*|
