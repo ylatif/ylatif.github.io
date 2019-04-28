@@ -30,8 +30,8 @@ navbar-links:
   Workshops: 
     - RSS 2015: "http://ylatif.github.io/movingsensors/"
     - ICRA 2019 : "workshops/learningslam/"
-  Demos:
-    - Perceptron: "demos/perceptron"
+#  Demos:
+#    - Perceptron: "demos/perceptron"
   
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
