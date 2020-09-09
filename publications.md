@@ -7,6 +7,29 @@ subtitle:
 
 [<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en) 
 
+
+## 2020
+
+
+- **[ICRA] SPRINT: Subgraph Place Recognition for Intelligent Transport**  
+***Y Latif**, A-D Doan, TJ Chin, I Reid*  
+IEEE International Conference on Robotics and Automation, 2020
+
+## 2019
+
+- **[ICRA] Real-Time Monocular Object-Model Aware Sparse SLAM**  
+*M Hosseinzadeh, K Li, **Y Latif**, I Reid*  
+IEEE International Conference on Robotics and Automation, 2019
+
+- **[DICTA ] Visual Localization Under Appearance Change: A Filtering Approach**  
+*A-D Doan, **Y Latif**, TJ Chin, I Reid *  
+The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
+
+- **[ICCV] Scalable place recognition under appearance change for autonomous driving**  
+*A-D Doan, **Y Latif**, TJ Chin, I Reid *  
+Proceedings of the IEEE International Conference on Computer Vision, 2019
+
+
 ## 2018
 - **[ACCV] Learning Deeply Supervised Good Features to Match for Dense Monocular Reconstruction**  
 *S Weerasekera, R Garg, **Y Latif**, I Reid*  
