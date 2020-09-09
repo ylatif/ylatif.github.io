@@ -4,16 +4,24 @@ title: Publications
 subtitle: 
 ---
 
+As of 09/09/2020
+
+|           | All  | Since 2015 |
+|-----------|------|------------|
+| Citations | 1945 | 1867       |
+| h-index   | 14   | 12         |
+| i10-index | 17   | 17         |
+
 
 [<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en) 
 
 
 ## 2020
 
-
 - **[ICRA] SPRINT: Subgraph Place Recognition for Intelligent Transport**  
 ***Y Latif**, A-D Doan, TJ Chin, I Reid*  
 IEEE International Conference on Robotics and Automation, 2020
+
 
 ## 2019
 
@@ -22,11 +30,11 @@ IEEE International Conference on Robotics and Automation, 2020
 IEEE International Conference on Robotics and Automation, 2019
 
 - **[DICTA ] Visual Localization Under Appearance Change: A Filtering Approach**  
-*A-D Doan, **Y Latif**, TJ Chin, I Reid *  
+*A-D Doan, **Y Latif**, TJ Chin, I Reid*  
 The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 
 - **[ICCV] Scalable place recognition under appearance change for autonomous driving**  
-*A-D Doan, **Y Latif**, TJ Chin, I Reid *  
+*A-D Doan, **Y Latif**, TJ Chin, I Reid*  
 Proceedings of the IEEE International Conference on Computer Vision, 2019
 
 
