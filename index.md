@@ -7,7 +7,6 @@ title: Yasir Latif
 I am a post-doctoral researcher at the Australian Center for Robotic Vision at the University of Adelaide node.
 
 ## News
-
     - [*Mar 2020*] SPRINT: Subgraph Place Recognition for INtelligent Transportation accepted to ICRA 2020
     - [*Dec 2019*] Invited talk at SLAM and deep learning workshop at ICCV.
     - [*Dec 2019*] Presented our work on Long term place recognition at ICCV, 2019
