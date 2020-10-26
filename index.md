@@ -8,8 +8,9 @@ I am a post-doctoral researcher at the Australian Center for Robotic Vision at t
 
 ## News
 
+- [*Oct 2020*] Our work on long term distributed place recognition titled "HM4: Hidden Markov Model with Memory Management" has been accepted at RA-L.
 - [*Mar 2020*] SPRINT: Subgraph Place Recognition for INtelligent Transportation accepted to ICRA 2020
-- ["Dec 2019"] Best paper award at DICTA for our work on visual localization under appearance change. Congrats Dzung!
+- [*Dec 2019*] Best paper award at DICTA for our work on visual localization under appearance change. Congrats Dzung!
 - [*Dec 2019*] Invited talk at SLAM and deep learning workshop at ICCV.
 - [*Dec 2019*] Presented our work on Long term place recognition at ICCV, 2019
 - [*OCT 2019*] We won! Winners [Gov-Hack 2019 digital culture challenge](https://www.adelaide.edu.au/aiml/news/list/2019/10/21/team-artificially-intelligent-win-at-govhack-2019).
