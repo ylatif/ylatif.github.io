@@ -8,17 +8,17 @@ var dragOffset = new Array();
 
 var mouseIsDown = false;
 
-window.onload = function()
+function MouseWheelHandler(e)
 {
-    canvas = document.getElementById('myCanvas');
-    
-    canvas.onmousewheel = function (event)
-    {
-    	var mousex = event.clientX - canvas.offsetLeft;
-    	var mousey = event.clientY - canvas.offsetTop;
-    	var wheel = event.wheelDelta/120;//n or -n
+    // cross-browser wheel delta
+    var e = window.event || e; // old IE support
+	var delta = Math.max(-1, Math.min(1, (e.wheelDelta || -e.detail)));
+	
+	var mousex = e.clientX - canvas.offsetLeft;
+    var mousey = e.clientY - canvas.offsetTop;
+	console.log(delta);
 
-    	var zoom = 1 + wheel/4;
+	var zoom = 1 + delta/4;
 
     	context.translate(originx,originy);
     
@@ -31,7 +31,23 @@ window.onload = function()
     	originx = ( mousex / scale + originx - mousex / ( scale * zoom ) );
     	originy = ( mousey / scale + originy - mousey / ( scale * zoom ) );
     	scale *= zoom;
-    }
+
+    return false;
+}
+
+
+window.onload = function()
+{
+    canvas = document.getElementById('myCanvas');
+    
+	if (canvas.addEventListener)
+	{
+		// IE9, Chrome, Safari, Opera
+		canvas.addEventListener("mousewheel", MouseWheelHandler, false);
+		// Firefox
+		canvas.addEventListener("DOMMouseScroll", MouseWheelHandler, false);
+	}
+
 
     canvas.onmousedown = function(event)
     {
