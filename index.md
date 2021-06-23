@@ -4,7 +4,11 @@ title: Yasir Latif
 #subtitle: Post doctoral researcher in Robotics
 ---
 
-I am a post-doctoral researcher at the Australian Center for Robotic Vision at the University of Adelaide node.
+## About me
+
+I am a post-doctoral researcher at the Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)) at the University of Adelaide. Previously, I was associate with the Australian Centre for Robotic Vision ([ACRV](https://roboticvision.org/)).
+
+The full list of publications I have been involved in can be found in the [publication](/publications) section.
 
 ## News
 
@@ -17,8 +21,6 @@ I am a post-doctoral researcher at the Australian Center for Robotic Vision at t
 
 ## Datasets and software
 
-Some of the datasets and software released during my PhD thesis
-
 - Robust SLAM Realizing, Reversing, Recovering (RRR) algorithm
   The code accompanying our work on Robustifying the SLAM backend can be found at
   [https://github.com/ylatif/rrr](https://github.com/ylatif/rrr)
@@ -26,5 +28,3 @@ Some of the datasets and software released during my PhD thesis
 - Robust SLAM Benchmarking Dataset
   Dataset that we developed for benchmarking Robust SLAM methods
   [https://github.com/ylatif/dataset-RobustSLAM](https://github.com/ylatif/dataset-RobustSLAM)
-
-A full list of publications can be found [here](/publications).

@@ -4,17 +4,25 @@ title: Publications
 subtitle:
 ---
 
-## Citations
+[Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en)
 
-|           | All  | Since 2015 |
-| --------- | :--: | :--------: |
-| Citations | 1945 |    1867    |
-| h-index   |  14  |     12     |
-| i10-index |  17  |     17     |
+# Book Chapters
 
-As of 09/09/2020
+- [Navigation, Environment Description, and Map Building](https://www.taylorfrancis.com/chapters/edit/10.1201/9780429347474-6/navigation-environment-description-map-building-henry-carrillo-yasir-latif-jos%C3%A9-castellanos)  
+  Henry Carrillo, Yasir Latif and Jose A. Castellanos,  
+  Mechatronics and Robotics, 105-132
 
-[<img src="http://wwwusers.di.uniroma1.it/~dellibovi/img/googlescholar-icon.png" width="20"/> Google Scholar : Yasir Latif](https://scholar.google.com.au/citations?user=pGsO6EkAAAAJ&hl=en)
+# Publications
+
+## 2021
+
+- **[RA-L] Learning to Predict Repeatability of Interest Points**  
+  A.D Doan, D. Turmukhambetov, **Y. Latif**, TJ Chin, and S. Bae,  
+  Robotics and Automation Letters (RA-L), 2021
+
+- **[J. Imaging] Improved Visual Localization via Graph Filtering**  
+  _C. Lassance, **Y. Latif**, R. Garg, V. Gripon and I. Reid_  
+  Journal of Imaging 2021, 7, 20. https://doi.org/10.3390/jimaging7020020
 
 ## 2020
 
