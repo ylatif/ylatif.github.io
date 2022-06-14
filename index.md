@@ -6,11 +6,22 @@ title: Yasir Latif
 
 ## About me
 
-I am a post-doctoral researcher at the Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)) at the University of Adelaide. Previously, I was associate with the Australian Centre for Robotic Vision ([ACRV](https://roboticvision.org/)).
+I am a senior researcher at the Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)) at the University of Adelaide where I am a part of the [Sentient Satellites Lab](https://cs.adelaide.edu.au/~ssl/).
+
+ Previously, I was associate with the Australian Centre for Robotic Vision ([ACRV](https://roboticvision.org/)).
+
+I am intersted in robots and space.
 
 The full list of publications I have been involved in can be found in the [publication](/publications) section.
 
+## Best Paper awards
+
+- [RA-L Best Paper 2021](https://www.ieee-ras.org/awards-recognition/publications-awards/70-awards-recognition/publication-awards/722-ieee-robotics-and-automation-letters-best-paper-award) "HM4: Hidden Markov Model with Memory Management"
+- DICTA 2019 for our work on visual localization under appearance change.
+
 ## News
+
+- [*May 2022*] We won! We recieved an RA-L best paper award for our work title "HM4: Hidden Markov Model with Memory Management". Congrats to all the authors!
 
 - [*Oct 2020*] Our work on long term distributed place recognition titled "HM4: Hidden Markov Model with Memory Management" has been accepted at RA-L.
 - [*Mar 2020*] SPRINT: Subgraph Place Recognition for INtelligent Transportation accepted to ICRA 2020
