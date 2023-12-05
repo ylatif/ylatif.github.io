@@ -23,16 +23,17 @@ description: SLAM and stuff
 
 # List of links in the navigation bar
 navbar-links:
-#  About Me: "aboutme"
+  #  About Me: "aboutme"
   Projects:
-     - GANs for Place Recognition : "projects/PRwithGANS/"
+    - Ultrafine stabilisation (AMOS): "ultrafinestabilisation/"
+    - GANs for Place Recognition: "projects/PRwithGANS/"
   Publications: "publications"
-  Workshops: 
+  Workshops:
     - RSS 2015: "http://ylatif.github.io/movingsensors/"
-    - ICRA 2019 : "workshops/learningslam/"
+    - ICRA 2019: "workshops/learningslam/"
 #  Demos:
 #    - Perceptron: "demos/perceptron"
-  
+
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -55,7 +56,7 @@ author:
   name: Yasir Latif
   email: "yasir.latif@adelaide.edu.au"
   #facebook: yourname  # eg. daattali
-  github: ylatif    # eg. daattali
+  github: ylatif # eg. daattali
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -132,16 +133,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -161,8 +160,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE
@@ -213,6 +212,5 @@ prose:
 
 gems:
   - jekyll-paginate
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

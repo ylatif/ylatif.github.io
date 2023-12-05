@@ -14,6 +14,27 @@ subtitle:
 
 # Publications
 
+## 2023
+
+- **[AMOS] High Frequency, High Accuracy Pointing onboard Nanosats using
+  Neuromorphic Event Sensing and Piezoelectric Actuation**,
+  _**Y. Latif**, P. Anastasiou, Y. Ng, Z. Prime, TF Lu, M Tetlow, R Mahony, TJ Chin_,
+  The Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference,
+  2023
+- **[ICRA] Towards bridging the space domain gap for satellite pose estimation using event sensing**,
+  _M Jawaid, E Elms, **Y Latif**, TJ Chin_,
+  IEEE International Conference on Robotics and Automation (ICRA), 2023
+
+## 2022
+
+- **[ECCV] Globally Optimal Event-Based Divergence Estimation for Ventral Landing**,
+  _S McLeod, G Meoni, D Izzo, A Mergy, D Liu, **Y Latif**, I Reid, TJ Chin_,
+  European Conference on Computer Vision, 2022
+
+- **[ICRA] Asynchronous optimisation for event-based visual odometry**,
+  _D Liu, A Parra, Y Latif, B Chen, TJ Chin, I Reid_,
+  International Conference on Robotics and Automation (ICRA), 2022
+
 ## 2021
 
 - **[RA-L] Learning to Predict Repeatability of Interest Points**  
