@@ -6,13 +6,13 @@ title: Yasir Latif
 
 ## About me
 
-I am a senior researcher at the Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)) at the University of Adelaide where I am a part of the [Sentient Satellites Lab](https://cs.adelaide.edu.au/~ssl/).
+I am a senior researcher at the Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)) at the University of Adelaide where I am a part of the [Sentient Satellites Lab](https://cs.adelaide.edu.au/~ssl/). Previously, I was associated with the Australian Centre for Robotic Vision ([ACRV](https://roboticvision.org/)).
 
- Previously, I was associate with the Australian Centre for Robotic Vision ([ACRV](https://roboticvision.org/)).
+The full list of publications can be found in the [publication](/publications) section.
 
-I am intersted in robots and space.
+## Recent
 
-The full list of publications I have been involved in can be found in the [publication](/publications) section.
+Check out our [lastest work](/ultrafinestabilisation/) that enables payload on-boards satellites to main highly accurate pointing by tracking stars!
 
 ## Best Paper awards
 
@@ -21,6 +21,7 @@ The full list of publications I have been involved in can be found in the [publi
 
 ## News
 
+- [*Sept 2023*] We presented our work on [ultra fine stabilisation](/ultrafinestabilisation/) at the "The Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference", the premier SSA conference.
 - [*May 2022*] We won! We recieved an RA-L best paper award for our work title "HM4: Hidden Markov Model with Memory Management". Congrats to all the authors!
 
 - [*Oct 2020*] Our work on long term distributed place recognition titled "HM4: Hidden Markov Model with Memory Management" has been accepted at RA-L.
