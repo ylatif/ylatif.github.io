@@ -16,18 +16,18 @@ subtitle:
 
 ## 2023
 
-- **[AMOS] High Frequency, High Accuracy Pointing onboard Nanosats using
+- 🛰 **[AMOS] High Frequency, High Accuracy Pointing onboard Nanosats using
   Neuromorphic Event Sensing and Piezoelectric Actuation**,
   _**Y. Latif**, P. Anastasiou, Y. Ng, Z. Prime, TF Lu, M Tetlow, R Mahony, TJ Chin_,
   The Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference,
   2023
-- **[ICRA] Towards bridging the space domain gap for satellite pose estimation using event sensing**,
+- 🛰 **[ICRA] Towards bridging the space domain gap for satellite pose estimation using event sensing**,
   _M Jawaid, E Elms, **Y Latif**, TJ Chin_,
   IEEE International Conference on Robotics and Automation (ICRA), 2023
 
 ## 2022
 
-- **[ECCV] Globally Optimal Event-Based Divergence Estimation for Ventral Landing**,
+- 🛰**[ECCV] Globally Optimal Event-Based Divergence Estimation for Ventral Landing**,
   _S McLeod, G Meoni, D Izzo, A Mergy, D Liu, **Y Latif**, I Reid, TJ Chin_,
   European Conference on Computer Vision, 2022
 
@@ -48,7 +48,7 @@ subtitle:
 ## 2020
 
 - **[ICRA] SPRINT: Subgraph Place Recognition for Intelligent Transport**  
-  **\*Y Latif**, A-D Doan, TJ Chin, I Reid\*  
+  _**Y Latif**, A-D Doan, TJ Chin, I Reid_  
   IEEE International Conference on Robotics and Automation, 2020
 
 ## 2019
@@ -135,7 +135,7 @@ subtitle:
 ## 2014
 
 - **[IROS] Robust Graph SLAM Back-ends: A Comparative Analysis**,  
-  **\*Y. Latif**, C. Cadena and J. Neira\*,  
+  _**Y. Latif**, C. Cadena and J. Neira_,  
   IEEE / RSJ International Conference on Intelligent Robots and Systems, September 2014, Chicago, IL, USA.
   [[pdf]](/papers/LatifIROS14.pdf)
 
@@ -144,7 +144,7 @@ subtitle:
   IEEE / RSJ International Conference on Intelligent Robots and Systems, September 2014, Chicago, IL, USA.
   [[pdf]](/papers/LatifRSS14.pdf)
 - **[RSS] An Online Sparsity-Cognizant Loop-Closure Algorithm for Visual Navigation**,  
-  **\*Y. Latif**, G. Huang, J. Leonard and J. Neira\*,  
+  _**Y. Latif**, G. Huang, J. Leonard and J. Neira_,  
   Robotics: Science and Systems (RSS), Berkely, July, 2014
   [[pdf]](/papers/LatifRSS14.pdf)
   [[bibtex]](/papers/LatifRSS14.bib)
@@ -158,7 +158,7 @@ subtitle:
 ## 2013
 
 - **[ECMR] Go Straight, Turn Right: Pose Graph Reduction through Trajectory Segmentation using Line Segments**,  
-  **\*Y. Latif** and J. Neira\*,  
+  _**Y. Latif** and J. Neira_,  
   European Conference on Mobile Robots, Sep 25-27, 2013 , Barcelona, Catalonia, Spain.
   [[pdf]](/papers/ecmr_final_submission_IEEE.pdf),
   [[talk]](/confs/ECMR13/talk/ecmr.html),
@@ -178,7 +178,7 @@ subtitle:
   [[pdf]](http://www.lmt.ei.tum.de/forschung/publikationen/dateien/Schweiger2013Speeded-upSURF:Designof.pdf)
 
 - **[ICRA-WS] Detecting the Correct Graph Structure in Pose Graph SLAM**,  
-  **\*Y. Latif**, C. Cadena and J. Neira\*,  
+  _**Y. Latif**, C. Cadena and J. Neira_,  
   1st Workshop on Robust and Multimodal Inference in Factor Graphs,
   IEEE Int. Conf. Robotics and Automation, Karsrhure, Germany, May, 2013.
   [[pdf]](/papers/ICRA2013_DetectingTheCorrectGraph.pdf),[[bibtex]](/papers/ICRA-WS.bib).
@@ -190,10 +190,10 @@ subtitle:
   IEEE/RSJ Int.Conf.on Intelligent Robots and Systems, October 7-12, 2012, Vilamoura, Portugal,
   [[pdf]](/papers/IROS2012_iRRR.pdf),[[bibtex]](/papers/iRRR.bib)
 - **[IROS] Fast Minimum Uncertainty Search on a Graph Map Representation**,  
-  H. Carrillo, **Y. Latif**, J. Neira and J.A. Castellanos,  
+  _H. Carrillo, **Y. Latif**, J. Neira and J.A. Castellanos_,  
   IEEE/RSJ Int.Conf.on Intelligent Robots and Systems, October 7-12, 2012, Vilamoura, Portugal,
   [[pdf]](/papers/IROS2012_Famus.pdf),[[bibtex]](/papers/Famus.bib)
 - **[RSS] Robust Loop Closing Over Time**,  
-  **Y. Latif**, C. Cadena, and J. Neira,  
+  _**Y. Latif**, C. Cadena, and J. Neira_,  
   Robotics: Science snd Systems, Sydney, Australia, July 2012.
   [[pdf]](/papers/RSS2012_RRR.pdf),[[bibtex]](/papers/RRR.bib)

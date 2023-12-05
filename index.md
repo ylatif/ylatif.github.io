@@ -12,7 +12,7 @@ The full list of publications can be found in the [publication](/publications) s
 
 ## Recent
 
-Check out our [lastest work](/ultrafinestabilisation/) that enables payload on-boards satellites to main highly accurate pointing by tracking stars!
+🛰 Check out our [lastest work](/ultrafinestabilisation/) that enables payload on-boards satellites to main highly accurate pointing by tracking stars!
 
 ## Best Paper awards
 
@@ -21,7 +21,7 @@ Check out our [lastest work](/ultrafinestabilisation/) that enables payload on-b
 
 ## News
 
-- [*Sept 2023*] We presented our work on [ultra fine stabilisation](/ultrafinestabilisation/) at the "The Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference", the premier SSA conference.
+- [*Sept 2023*] 🛰 We presented our work on [ultra fine stabilisation](/ultrafinestabilisation/) at the "The Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference", the premier SSA conference. 🛰
 - [*May 2022*] We won! We recieved an RA-L best paper award for our work title "HM4: Hidden Markov Model with Memory Management". Congrats to all the authors!
 
 - [*Oct 2020*] Our work on long term distributed place recognition titled "HM4: Hidden Markov Model with Memory Management" has been accepted at RA-L.
